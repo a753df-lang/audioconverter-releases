@@ -1,16 +1,16 @@
 {
-  "version": "1.0.2",
-  "file": "AudioConverter_Setup_v1.0.2.exe",
-  "size": 51958391,
-  "sha256": "5e04518b3cf6551ec586a5e2f462b600af37b22bb3ab91cf2cb27e2fc17d2203",
+  "version": "1.0.3",
+  "file": "AudioConverter_Setup_v1.0.3.exe",
+  "size": 51960582,
+  "sha256": "81e51a1ce3cb17a0a7fa92f3fe799f66182340f4511b90dceef2f31d74f77111",
   "parts": [
-    "AudioConverter_Setup_v1.0.2.part00.bin",
-    "AudioConverter_Setup_v1.0.2.part01.bin",
-    "AudioConverter_Setup_v1.0.2.part02.bin",
-    "AudioConverter_Setup_v1.0.2.part03.bin",
-    "AudioConverter_Setup_v1.0.2.part04.bin",
-    "AudioConverter_Setup_v1.0.2.part05.bin"
+    "AudioConverter_Setup_v1.0.3.part00.bin",
+    "AudioConverter_Setup_v1.0.3.part01.bin",
+    "AudioConverter_Setup_v1.0.3.part02.bin",
+    "AudioConverter_Setup_v1.0.3.part03.bin",
+    "AudioConverter_Setup_v1.0.3.part04.bin",
+    "AudioConverter_Setup_v1.0.3.part05.bin"
   ],
-  "notes": "· 새 아이콘 (프로그램 · 창 · 설치파일)",
+  "notes": "· 바탕화면 · 시작 메뉴 아이콘이 새 아이콘으로 바로 바뀌도록 수정",
   "date": "2026-11-08"
 }
