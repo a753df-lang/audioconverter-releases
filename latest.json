@@ -1,0 +1,16 @@
+{
+  "version": "1.0.1",
+  "file": "AudioConverter_Setup_v1.0.1.exe",
+  "size": 51997024,
+  "sha256": "7babb0eea2e5a0432a4eaa5bb21429c9dd60dba0ccff8ff75546cd037008c8a8",
+  "parts": [
+    "AudioConverter_Setup_v1.0.1.part00.bin",
+    "AudioConverter_Setup_v1.0.1.part01.bin",
+    "AudioConverter_Setup_v1.0.1.part02.bin",
+    "AudioConverter_Setup_v1.0.1.part03.bin",
+    "AudioConverter_Setup_v1.0.1.part04.bin",
+    "AudioConverter_Setup_v1.0.1.part05.bin"
+  ],
+  "notes": "· 프로그램 안에서 새 버전 확인 · 업데이트 ([업데이트 확인] 버튼, 켤 때 자동 확인)\n· 창 제목에 버전 표시",
+  "date": "2026-11-08"
+}
