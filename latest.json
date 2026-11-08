@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1",
-  "file": "AudioConverter_Setup_v1.0.1.exe",
-  "size": 51997024,
-  "sha256": "7babb0eea2e5a0432a4eaa5bb21429c9dd60dba0ccff8ff75546cd037008c8a8",
+  "version": "1.0.2",
+  "file": "AudioConverter_Setup_v1.0.2.exe",
+  "size": 51958391,
+  "sha256": "5e04518b3cf6551ec586a5e2f462b600af37b22bb3ab91cf2cb27e2fc17d2203",
   "parts": [
-    "AudioConverter_Setup_v1.0.1.part00.bin",
-    "AudioConverter_Setup_v1.0.1.part01.bin",
-    "AudioConverter_Setup_v1.0.1.part02.bin",
-    "AudioConverter_Setup_v1.0.1.part03.bin",
-    "AudioConverter_Setup_v1.0.1.part04.bin",
-    "AudioConverter_Setup_v1.0.1.part05.bin"
+    "AudioConverter_Setup_v1.0.2.part00.bin",
+    "AudioConverter_Setup_v1.0.2.part01.bin",
+    "AudioConverter_Setup_v1.0.2.part02.bin",
+    "AudioConverter_Setup_v1.0.2.part03.bin",
+    "AudioConverter_Setup_v1.0.2.part04.bin",
+    "AudioConverter_Setup_v1.0.2.part05.bin"
   ],
-  "notes": "· 프로그램 안에서 새 버전 확인 · 업데이트 ([업데이트 확인] 버튼, 켤 때 자동 확인)\n· 창 제목에 버전 표시",
+  "notes": "· 새 아이콘 (프로그램 · 창 · 설치파일)",
   "date": "2026-11-08"
 }
